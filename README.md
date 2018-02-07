@@ -2,7 +2,7 @@
 
 一个定时将RSS/ATOM feed发送至kindle的工具
 
-其中master分支自改为不再依赖Google Reader以来，由[WilliamGates](https://github.com/williamgateszhao)开发
+其中master分支自改为不再依赖Google Reader以来。
 
 **2013年7月1日Google Reader关闭服务之后GR和gae分支版本将无法使用**
 
